@@ -187,27 +187,20 @@ export const connectMe = [
 ];
 
 export const myExp = [
-  {
-    companyName: "HCL Technologies, Noida",
-    from: "July 2022",
-    to: "Present",
-    designation: "Front End Developer",
-    desc: "As a Front-End Developer, here my responsibily is to create beautiful interfaces, fixing issue related to UI and to make necessary modifications. Basically, I work with JavaScript, React Js, SASS, HTML, CSS etc.",
-  },
 
   {
     companyName: "HCL Technologies, Noida",
-    from: "March 2021",
-    to: "June 2022",
+    from: "Feb 2022",
+    to: "Present",
     designation: "Analyst",
-    desc: "Here, some additional works has been assigned to me with Incidents and RITMs. I work on Change Management too. My responsibility is to create CHANGEs in ServiceNow, to put all the required steps, plans and Documents then to send to CAB call and to move it to planned team so that they can work on it. Then after the completion of the CHANGE, I proceed it to the review state with adding some additional documents. ",
+    desc: "Here, My role and responsiblities are to create beautiful user interfaces, providing responsiveness for different resolutions, adding interactivity to pages using the latest frameworks and required tools, modifying the old UIs to make them better, making the design pattern constant for all the similar materials, adding the smooth navigations & transitions etc. Here, I work with JavaScript, React js, CSS, SASS, Tailwind CSS, Bootstrap, Git, Framer Motion etc. ",
   },
 
   {
     companyName: "HCL Technologies, Noida",
     from: "Dec 2019",
-    to: "Feb 2021",
+    to: "Jan 2022",
     designation: "Graduate Engineer Trainee",
-    desc: "I completed my training on Windows and Active Directory and then I was aligned to work with P&G (Procter & Gamble) - PC Services Team. My responsibility was to handle Incidents and RITMs and solve them as soon as possible.",
+    desc: "I completed my training on Windows and Active Directory and then I was aligned to work with P&G (Procter & Gamble) - PC Services Team. My responsibility was to handle Incidents and RITMs, Creating , Documenting the required steps & reviewing the CHANGE, providing the best solution within the defined SLAs.",
   },
 ];

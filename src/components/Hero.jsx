@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../images/Resume.docx";
+import Resume from "../images/Gyan.docx";
 import { motion } from "framer-motion";
 import { AiOutlineWhatsApp } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
@@ -124,7 +124,7 @@ const Hero = () => {
               className="text-white mt-5 bg-gradient-to-br from-[#283c86] to-[#45a247] hover:to-[#45a255] focus:ring-4 focus:outline-none focus:ring-blue-300  rounded-xl w-full p-5 text-2xl  font-bold"
             >
               <span className="text-2xl flex justify-center items-center space-x-2">
-                <MdDownload /> <span> Download CV</span>
+                <MdDownload /> <span> Download Resume</span>
               </span>
             </motion.button>
           </a>

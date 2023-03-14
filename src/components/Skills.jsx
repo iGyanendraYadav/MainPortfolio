@@ -20,11 +20,11 @@ const Skills = () => {
             return (
               <motion.div variants={fadeIn('right',"tween",i*0.2, 1)} key={skill.name} className="showCase group relative cursor-pointer flex">
                 <img
-                  className="rounded-full border-4 border-gray-300 dark:border-gray-700 object-cover h-28 w-28  md:h-40 md:w-40 filter group-hover:grayscale transition duration-300 ease-in-out"
+                  className="rounded-full border-4 border-gray-300 dark:border-gray-700 object-cover h-24 w-24  md:h-40 md:w-40 filter group-hover:grayscale transition duration-300 ease-in-out"
                   src={skill.logo}
                   alt={skill.name}
                 />
-                <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-out group-hover:bg-purple-700  h-28 w-28  md:h-40 md:w-40 rounded-full z-0">
+                <div className="absolute opacity-0 group-hover:opacity-80 transition duration-300 ease-out group-hover:bg-purple-700  h-24 w-24  md:h-40 md:w-40 rounded-full z-0">
                   <div className="flex justify-center items-center h-full">
                     <p className="text-3xl md:text-5xl font-bold text-white opacity-100">
                       {skill.percent}
