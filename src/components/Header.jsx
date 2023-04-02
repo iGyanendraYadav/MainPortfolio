@@ -52,7 +52,7 @@ const Header = (props) => {
             {open ? <span className=" "><AiOutlineClose /></span>  : <span className=""><AiOutlineMenu /></span> }
           </div>
           <ul
-            className={`lg:flex lg:justify-end lg:items-center pt-2 md:pt-0  lg:pt-0 absolute lg:static text-gray-700 dark:text-gray-100 bg-gray-200 dark:bg-gray-800 lg:bg-transparent dark:lg:bg-transparent   lg:z-auto z-[-1] left-64 md:left-[550px] md:w-full lg:left-0 w-full  lg:pl-0 pl-0 transition-all duration-500 ease-in ${
+            className={`lg:flex lg:justify-end lg:items-center rounded-xl lg:rounded-none border border-indigo-300 lg:border-none pt-2 md:pt-0  lg:pt-0 absolute lg:static text-gray-700 dark:text-gray-100 bg-gray-200 dark:bg-gray-800 lg:bg-transparent dark:lg:bg-transparent   lg:z-auto z-[-1] left-64 md:left-[550px] md:w-full lg:left-0 w-full  lg:pl-0 pl-0 transition-all duration-500 ease-in ${
             // className={`lg:flex lg:justify-end lg:items-center pt-2 md:pt-0  lg:pt-0 absolute lg:static bg-gray-200 dark:bg-gray-700 lg:bg-white lg:dark:bg-[#0b1121]    lg:z-auto z-[-1] left-60 md:left-[550px] md:w-full lg:left-0 w-full  lg:pl-0 pl-9 transition-all duration-500 ease-in ${
               open
                 ? "top-16 md:top-14 opacity-100"

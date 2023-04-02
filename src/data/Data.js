@@ -2,8 +2,8 @@ import { MdEmail } from "react-icons/md";
 import { FaGithubSquare, FaLinkedin, FaInstagramSquare } from "react-icons/fa";
 
 import bookstore from '../images/bookstore.png';
+import banaras from '../images/banaras.png';
 import hcl from '../images/hcl.png';
-import youtube from '../images/youtube.png';
 import netflix from '../images/netflix.png';
 import insta from '../images/insta.png';
 
@@ -15,7 +15,6 @@ import nextjs from '../images/nextjs.png';
 import bootstrap from '../images/bootstrap.png';
 import tailwind from '../images/tailwind.png';
 import sass from '../images/sass.png';
-// import mongo from '../images/mongoDB.png';
 import firebase from '../images/firebase.png';
 import redux from '../images/redux.png';
 import git from '../images/git.png';
@@ -24,6 +23,8 @@ import fm from '../images/fm.png';
 import vscode from '../images/vscode.png';
 import ps from '../images/ps.png';
 import mongoLeaf from '../images/mongoLeaf.png';
+import node from '../images/node.png';
+import express from '../images/express.png';
 
 export const mySkills = [
   {
@@ -40,23 +41,23 @@ export const mySkills = [
   {
     logo: js,
     name: "JavaScript",
-    percent: "70%",
+    percent: "85%",
   },
   {
     logo: react,
     name: "React Js",
-    percent: "80%",
+    percent: "90%",
   }
   ,
   {
     logo: nextjs,
     name: "Next Js",
-    percent: "60%",
+    percent: "70%",
   },
   {
     logo: bootstrap,
     name: "Bootstrap",
-    percent: "75%",
+    percent: "85%",
   },
 
   {
@@ -72,7 +73,19 @@ export const mySkills = [
   {
     logo: mongoLeaf,
     name: "MongoDB",
-    percent: "72%",
+    percent: "80%",
+  }
+  ,
+  {
+    logo: node,
+    name: "Node Js",
+    percent: "70%",
+  }
+  ,
+  {
+    logo: express,
+    name: "Express Js",
+    percent: "75%",
   }
   ,
   {
@@ -83,13 +96,13 @@ export const mySkills = [
   {
     logo: redux,
     name: "Redux Js",
-    percent: "65%",
+    percent: "70%",
   },
 
   {
     logo: git,
     name: "Git",
-    percent: "70%",
+    percent: "80%",
   },
   {
     logo: github,
@@ -99,7 +112,7 @@ export const mySkills = [
   {
     logo: fm,
     name: "Framer Motion",
-    percent: "50%",
+    percent: "55%",
   },
   {
     logo: vscode,
@@ -110,7 +123,7 @@ export const mySkills = [
   {
     logo: ps,
     name: "Photoshop",
-    percent: "70%",
+    percent: "75%",
   }
 ]
 
@@ -119,6 +132,13 @@ export const mySkills = [
 
 
 export const myProjects = [
+  {
+    image: banaras,
+    link: "https://banaras.vercel.app/",
+    repo: "https://github.com/iGyanendraYadav/Banaras-Films",
+    name: "Banaras Films",
+    usedTech: "HTML, REACT JS & Tailwind CSS"
+  },
   {
     image: bookstore,
     link: "https://testone-31632.web.app/",
@@ -133,14 +153,7 @@ export const myProjects = [
     name: "HCLTech",
     usedTech: "HTML, CSS, REACT JS & Tailwind CSS"
   },
-  {
-    image: youtube,
-    link: "https://igyanendra.web.app/",
-    repo: "https://github.com/iGyanendraYadav/youtube",
-    name: "YouTube Clone",
-    usedTech: "HTML, CSS, REACT JS, Redux & SASS"
-  }
-  ,
+
   {
     image: netflix,
     link: "https://netflixbygyan.web.app/",

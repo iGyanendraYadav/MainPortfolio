@@ -19,9 +19,9 @@ const Services = () => {
 
         <p className="px-10 md:px-20 indent-5 py-5 md:py-2 lg:py-5 text-xl md:text-xl lg:text-2xl ">
           I love to design websites using React Js, Next Js, Tailwind CSS, SASS,
-          Bootstrap etc. I have worked on many projects like YouTube Clone,
+          Bootstrap etc. I have worked on many individual projects like Banaras Films : A Wedding Film website,
           BookStore : A website for an author, Netflix Clone(Front End Only),
-          Instagram Clone, HCLTech : Front End Design of HCLTech website and
+          Instagram Clone, HCLTech : Front End Design of HCLTech website, my own portfolio &
           many others.
         </p>
 
