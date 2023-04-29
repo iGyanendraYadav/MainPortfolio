@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+# Gyanindra Yadav : A JavaScript / React Developer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi there,
 
-## Available Scripts
+I am Gyanindra Yadav. Currently, I am working as Analyst at HCL Technologies. 
+I create attractive and responsive User Interfaces (UI) with HTML, CSS, JavaScript, React JS, Tailwind CSS etc.
 
-In the project directory, you can run:
 
-### `npm start`
+Please visit my portfolio to know more about me or you can contact me via LinkedIn too.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+I have attached a screenshot of the homepage of my website. 
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![portLight](https://user-images.githubusercontent.com/49138951/230054506-ff6c1998-1784-45e4-bbab-7132c4727fd0.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What skills do I have ?
+<br>
 
-### `npm run eject`
+![portSkills](https://user-images.githubusercontent.com/49138951/230054678-b71d429e-8002-4522-a774-ba2aaa429884.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Visit My Portfolio
 
-## Learn More
+This project has been deployed on Vercel. <br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h4><a href="https://www.gyanindra.com/">You can click on this link to visit my Portfolio.</a></h4>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Langauage & Tools Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Library** : React Js
+**Language** : JavaScript
+**Styling** :  Tailwind CSS
+**Deployed On** : Vercel
+**Other Tools** : React Icons
+**Animations** : Framer Motion
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Responsiveness.
+- Nice Hover Effect
+- Nice Animations
+- Light & Dark Mode
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Lessons Learned
+
+While building this project, I revised learning/use of these things. 
+- React Js
+- Tailwind CSS
+- Framer Motion
+
+## FAQ
+
+#### Do I need to login or signup to check this ?
+
+No. <br>
+
+
+#### Which tool is being used here for the animation ?
+
+Framer Motion.
+
+
+
+
+# Hi, I'm Gyanindra. 👋
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gyanindra.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igyanendrayadav/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iGyanendraYadav/)
+[![instagram](https://img.shields.io/badge/insta-FD1D1D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iGyanendraYadav/)
+
+
+
+## 🚀 About Me
+I'm working as Analyst at HCL Technologies. I love to design Attractive and Responsive website using React Js, Next Js,Redux, MongoDB, Firebase, Framer Motion, SCSS and Tailwind CSS etc.
+<br>
+
+
+Thanks !!!
