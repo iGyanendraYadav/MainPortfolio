@@ -10,6 +10,7 @@ import insta from '../images/insta.png';
 import html from '../images/html.png';
 import css from '../images/css.png';
 import js from '../images/js.png';
+import ts from '../images/ts.png';
 import react from '../images/react.png';
 import nextjs from '../images/nextjs.png';
 import bootstrap from '../images/bootstrap.png';
@@ -36,12 +37,17 @@ export const mySkills = [
   {
     logo: css,
     name: "CSS",
-    percent: "85%",
+    percent: "90%",
   },
   {
     logo: js,
     name: "JavaScript",
-    percent: "85%",
+    percent: "88%",
+  },
+  {
+    logo: ts,
+    name: "TypeScript",
+    percent: "65%",
   },
   {
     logo: react,
@@ -52,7 +58,7 @@ export const mySkills = [
   {
     logo: nextjs,
     name: "Next Js",
-    percent: "70%",
+    percent: "72%",
   },
   {
     logo: bootstrap,
@@ -73,13 +79,13 @@ export const mySkills = [
   {
     logo: mongoLeaf,
     name: "MongoDB",
-    percent: "80%",
+    percent: "90%",
   }
   ,
   {
     logo: node,
     name: "Node Js",
-    percent: "70%",
+    percent: "85%",
   }
   ,
   {
