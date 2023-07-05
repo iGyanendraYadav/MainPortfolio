@@ -20,16 +20,15 @@ const Services = () => {
         <p className="px-10 md:px-20 indent-5 py-5 md:py-2 lg:py-5 text-xl md:text-xl lg:text-2xl ">
           I love to design websites using React Js, Next Js, Tailwind CSS, SASS,
           Bootstrap etc. I have worked on many individual projects like Banaras Films : A Wedding Film website,
-          BookStore : A website for an author, Netflix Clone(Front End Only),
-          Instagram Clone, HCLTech : Front End Design of HCLTech website, my own portfolio &
+          BookStore : A website for an author, FoodTruck : Get Food Anywhere, AppPlus : A modern colorful website, HCLTech : Front End Design of HCLTech website, my own portfolio &
           many others.
         </p>
 
         <p className="px-10 md:px-20 indent-5 py-1 md:py-1 lg:py-1 text-xl md:text-xl lg:text-2xl">
-          Since, Google is also focusing on the Mobile First websites for SERPs
+          Since, Google also focuses on Mobile First websites for SERPs
           (Search Engine Result Page). So, I always keep in mind to make it
-          mobile freindly. You will always get these features in websites that I
-          design -
+          mobile freindly. You will always get these features in websites that I have
+          designed -
         </p>
 
         <div className="flex  flex-wrap justify-evenly items-center space-x-0 md:space-x-0 lg:space-x-10 ">

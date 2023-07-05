@@ -13,21 +13,21 @@ const Works = () => {
 
       <div className="container mx-auto flex flex-col justify-center items-center pt-20 pb-10 md:pt-16 md:pb-10  bg-gray-200 dark:bg-gray-800">
         <h1 className=" font-extrabold text-4xl md:text-4xl lg:text-6xl leading-[3rem] md:leading-[5rem] ">
-          What I have made ?
+        Individual Projects
         </h1>
 
         <p className="px-10 indent-5 md:px-20 py-5 md:py-2 lg:py-5  text-xl md:text-xl lg:text-2xl ">
          
             "Designing is something that you can always try to make better than
             earlier. If you are satisfied with your design, then It's OK.
-            Otherwise, you will try again to make it better. So, I mean to say
+            Otherwise, you will try again to make it better. So, All I mean to say
             is 'DESIGNING IS ENDLESS'."
          
         </p>
 
         <p className="px-10 indent-5 md:px-20 pt-1 pb-5 md:pt-1 md:pb-10  text-xl md:text-xl lg:text-2xl">
           Here, I have designed some websites and some web-app clones. I don't
-          know it is good enough or not but I would like to hear your feedback.
+          know whether it is good enough or not but I would like to hear your feedback.
           You can click on the image to check that project.
         </p>
 

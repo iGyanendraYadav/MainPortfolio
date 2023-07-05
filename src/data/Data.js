@@ -4,8 +4,10 @@ import { FaGithubSquare, FaLinkedin, FaInstagramSquare } from "react-icons/fa";
 import bookstore from '../images/bookstore.png';
 import banaras from '../images/banaras.png';
 import hcl from '../images/hcl.png';
-import netflix from '../images/netflix.png';
-import insta from '../images/insta.png';
+// import netflix from '../images/netflix.png';
+// import insta from '../images/insta.png';
+import appplus from '../images/appplus.png';
+import foodtruck from '../images/foodtruck.png';
 
 import html from '../images/html.png';
 import css from '../images/css.png';
@@ -31,23 +33,23 @@ export const mySkills = [
   {
     logo: html,
     name: "HTML",
-    percent: "90%",
+    percent: "95%",
   },
 
   {
     logo: css,
     name: "CSS",
-    percent: "90%",
+    percent: "92%",
   },
   {
     logo: js,
     name: "JavaScript",
-    percent: "88%",
+    percent: "90%",
   },
   {
     logo: ts,
     name: "TypeScript",
-    percent: "65%",
+    percent: "85%",
   },
   {
     logo: react,
@@ -63,18 +65,18 @@ export const mySkills = [
   {
     logo: bootstrap,
     name: "Bootstrap",
-    percent: "85%",
+    percent: "89%",
   },
 
   {
     logo: tailwind,
     name: "Tailwind CSS",
-    percent: "85%",
+    percent: "90%",
   },
   {
     logo: sass,
     name: "Sass",
-    percent: "80%",
+    percent: "85%",
   },
   {
     logo: mongoLeaf,
@@ -97,18 +99,18 @@ export const mySkills = [
   {
     logo: firebase,
     name: "Firebase",
-    percent: "60%",
+    percent: "65%",
   },
   {
     logo: redux,
     name: "Redux Js",
-    percent: "70%",
+    percent: "75%",
   },
 
   {
     logo: git,
     name: "Git",
-    percent: "80%",
+    percent: "90%",
   },
   {
     logo: github,
@@ -118,7 +120,7 @@ export const mySkills = [
   {
     logo: fm,
     name: "Framer Motion",
-    percent: "55%",
+    percent: "75%",
   },
   {
     logo: vscode,
@@ -129,7 +131,7 @@ export const mySkills = [
   {
     logo: ps,
     name: "Photoshop",
-    percent: "75%",
+    percent: "85%",
   }
 ]
 
@@ -145,6 +147,24 @@ export const myProjects = [
     name: "Banaras Films",
     usedTech: "HTML, REACT JS & Tailwind CSS"
   },
+
+  {
+    image: foodtruck,
+    link: "https://foodtruck-rho.vercel.app/",
+    repo: "https://github.com/iGyanendraYadav/FoodTruck",
+    name: "FoodTruck",
+    usedTech: "Next Js & Tailwind CSS"
+  },
+
+  {
+    image: appplus,
+    link: "https://appplus.vercel.app/",
+    repo: "https://github.com/iGyanendraYadav/AppPlus",
+    name: "AppPlus",
+    usedTech: "Next JS & Tailwind CSS"
+  },
+  
+
   {
     image: bookstore,
     link: "https://testone-31632.web.app/",
@@ -160,21 +180,7 @@ export const myProjects = [
     usedTech: "HTML, CSS, REACT JS & Tailwind CSS"
   },
 
-  {
-    image: netflix,
-    link: "https://netflixbygyan.web.app/",
-    repo: "https://github.com/iGyanendraYadav/Netflix",
-    name: "HCLTech",
-    usedTech: "HTML, CSS, REACT JS & Tailwind CSS"
-  },
-  
-  {
-    image: insta,
-    link: "https://instagram-igyanendrayadav.vercel.app/",
-    repo: "https://github.com/iGyanendraYadav/Instagram",
-    name: "Instagram Clone",
-    usedTech: "HTML, CSS, Next Js & Tailwind CSS"
-  }
+
 ]
 
 
@@ -209,7 +215,7 @@ export const myExp = [
 
   {
     companyName: "HCL Technologies, Noida",
-    from: "Feb 2022",
+    from: "July 2021",
     to: "Present",
     designation: "Analyst",
     desc: "Here, My role and responsiblities are to create beautiful user interfaces, providing responsiveness for different resolutions, adding interactivity to pages using the latest frameworks and required tools, modifying the old UIs to make them better, making the design pattern constant for all the similar materials, adding the smooth navigations & transitions etc. Here, I work with JavaScript, React js, CSS, SASS, Tailwind CSS, Bootstrap, Git, Framer Motion etc. ",
@@ -218,7 +224,7 @@ export const myExp = [
   {
     companyName: "HCL Technologies, Noida",
     from: "Dec 2019",
-    to: "Jan 2022",
+    to: "June 2021",
     designation: "Graduate Engineer Trainee",
     desc: "I completed my training on Windows and Active Directory and then I was aligned to work with P&G (Procter & Gamble) - PC Services Team. My responsibility was to handle Incidents and RITMs, Creating , Documenting the required steps & reviewing the CHANGE, providing the best solution within the defined SLAs.",
   },

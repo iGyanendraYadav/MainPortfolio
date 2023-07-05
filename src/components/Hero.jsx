@@ -44,7 +44,8 @@ const Hero = () => {
        
           <motion.h1 variants={fadeIn('right',"spring",0.2, 1)} className="leading-[3rem] md:leading-[3rem] lg:leading-[5rem]">Hey There,</motion.h1>
           <motion.h1 variants={fadeIn('right',"spring",0.6, 1)} className="leading-[3rem] md:leading-[3rem] lg:leading-[5rem]">I'm Gyanindra.</motion.h1>
-          <motion.h1 variants={fadeIn('right',"spring",1, 1)} className="leading-[3rem] md:leading-[3rem] lg:leading-[5rem] text-gray-500 dark:text-gray-300">&lt; <span className="text-3xl md:text-4xl lg:text-5xl">Web Developer</span> &#47; &gt;</motion.h1>
+
+          <motion.h1 variants={fadeIn('right',"spring",1, 1)} className="leading-[3rem] md:leading-[3rem] lg:leading-[5rem] text-gray-500 dark:text-gray-300">&lt; <span className="text-3xl md:text-4xl lg:text-5xl">Frontend Developer</span> &#47; &gt;</motion.h1> 
         
 
           <div className="flex flex-row justify-evenly items-center space-x-5 md:space-x-6 lg:space-x-10 my-5 ">
@@ -111,6 +112,7 @@ const Hero = () => {
         <div className="rightOne flex flex-col">
           <motion.img variants={fadeIn('left',"spring",0.2, 1)}
             className="rounded-3xl h-80 w-80 md:h-[300px] md:w-[300px] lg:h-[320px] lg:w-[320px]"
+       
             src="./p72.jpg"
             alt="Gyanindra"
           />
