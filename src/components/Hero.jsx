@@ -108,10 +108,11 @@ const Hero = () => {
           </div>
         </div>
 
-
-        <div className="rightOne flex flex-col">
+       
+        <div className="rightOne flex flex-col shadow-inner shadow-cyan-500 bg-blue-600   bg-opacity-20  border backdrop-filter backdrop-blur-2xl border-teal-600 border-opacity-50 rounded-3xl p-4">
+        
           <motion.img variants={fadeIn('left',"spring",0.2, 1)}
-            className="rounded-3xl h-80 w-80 md:h-[300px] md:w-[300px] lg:h-[320px] lg:w-[320px]"
+            className="rounded-3xl h-80 w-80 md:h-[300px] md:w-[300px] lg:h-[320px] lg:w-[320px] border-2 border-opacity-30 border-cyan-300"
        
             src="./p72.jpg"
             alt="Gyanindra"
