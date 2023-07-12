@@ -3,9 +3,6 @@ import { FaGithubSquare, FaLinkedin, FaInstagramSquare } from "react-icons/fa";
 
 import bookstore from '../images/bookstore.png';
 import banaras from '../images/banaras.png';
-import hcl from '../images/hcl.png';
-// import netflix from '../images/netflix.png';
-// import insta from '../images/insta.png';
 import appplus from '../images/appplus.png';
 import foodtruck from '../images/foodtruck.png';
 
@@ -170,13 +167,6 @@ export const myProjects = [
     link: "https://testone-31632.web.app/",
     repo: "https://github.com/iGyanendraYadav/bookStore",
     name: "BookStore by Gyan",
-    usedTech: "HTML, CSS, REACT JS & Tailwind CSS"
-  },
-  {
-    image: hcl,
-    link: "https://hcltechbygyan.web.app/",
-    repo: "https://github.com/iGyanendraYadav/HCLTech",
-    name: "HCLTech",
     usedTech: "HTML, CSS, REACT JS & Tailwind CSS"
   },
 
