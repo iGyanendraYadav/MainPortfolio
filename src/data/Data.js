@@ -193,7 +193,10 @@ export const myExp = [
     from: "July 2021",
     to: "Present",
     designation: "Analyst",
-    desc: "In my current position, I hold the responsibility of crafting captivating user interfaces that combine both aesthetics and functionality. My expertise lies in creating responsive designs that adapt seamlessly to various screen resolutions, ensuring an optimal user experience across devices. I take pride in employing cutting-edge frameworks and tools, such as JavaScript, React JS, CSS, SASS, Tailwind CSS, Bootstrap, Git, and Framer Motion, to add interactivity and dynamic elements to web pages. One of my key tasks involves enhancing existing user interfaces, transforming them into visually appealing and user-friendly experiences. I strive to maintain a consistent design pattern throughout similar materials, instilling a sense of coherence and brand identity across the platform. Additionally, I am proficient in implementing smooth navigation and seamless transitions to elevate the overall user journey. In summary, my role revolves around bringing creativity, technical expertise, and a keen eye for detail to ensure that the user interfaces I create not only meet but exceed the expectations of modern web design standards.",
+    desc: "• Spearheaded the design and development of visually captivating and responsive user interfaces (UIs) that enhanced user experiences.",
+    desc2: "• Employed JavaScript, alongside essential frameworks, tools, and libraries, to introduce dynamic interactivity into user interfaces, resulting in enhanced user engagement. ",
+    desc3: "• Successfully created and implemented more than 200 custom-designed interfaces for various web and mobile applications, meeting diverse client requirements.",
+    desc4: "• Skillfully utilized a combination of React JS, CSS, SASS, Tailwind CSS, Bootstrap, Git, and Framer Motion to produce aesthetically-pleasing user interfaces, effectively accommodating intricate navigation and interaction complexities.",
   },
 
   {
@@ -201,6 +204,9 @@ export const myExp = [
     from: "Dec 2019",
     to: "June 2021",
     designation: "Graduate Engineer Trainee",
-    desc: "Having successfully completed comprehensive training in Windows and Active Directory, I was subsequently assigned to the esteemed P&G (Procter & Gamble) - PC Services Team. In this pivotal role, I assumed the responsibility of efficiently managing Incidents and RITMs, while also spearheading the creation and meticulous documentation of essential procedures. A crucial aspect of my role involved rigorously reviewing CHANGE processes to ensure seamless implementation and adherence to best practices. Dedicated to delivering excellence, I diligently worked to provide optimal solutions promptly, adhering strictly to predefined Service Level Agreements (SLAs). This involved a proactive approach, constantly seeking ways to enhance efficiency and streamline processes, while consistently maintaining a strong focus on meeting and exceeding customer expectations.",
+    desc: "• Demonstrating exceptional attention to detail by efficiently creating, documenting, and reviewing the required steps for CHANGE management, ensuring accuracy and adherence to established protocols.",
+    desc2: "• Proactively overseeing INCs & RITMs queue, skillfully assigning them to agents based on shift timing, thereby optimizing resource allocation and maximizing productivity. ",
+    desc3: "• Consistently delivering optimal solutions within the defined SLA (Service Level Agreement), exhibiting a strong commitment to meeting and exceeding client expectations.",
+    desc4: "",
   },
 ];

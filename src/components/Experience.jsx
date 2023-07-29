@@ -51,6 +51,13 @@ const Experience = () => {
                 <h3>{exp.to}</h3>
               </span>
               <p className="text-lg text-gray-500 dark:text-gray-300">{exp.desc}</p>
+              <p className="text-lg text-gray-500 dark:text-gray-300">{exp.desc2}</p>
+              <p className="text-lg text-gray-500 dark:text-gray-300">{exp.desc3}</p>
+            {
+              exp.desc4 && <p className="text-lg text-gray-500 dark:text-gray-300">{exp.desc4}</p> 
+            }
+               
+            
             </motion.div>
           );
         })}
